@@ -3,7 +3,7 @@
   "short_name": "Laminar Observability",
   "description": "Tracing, evals and SQL over agent traces, on ClickHouse, self-hosted",
   "category": "Observability",
-  "image": "https://raw.githubusercontent.com/nomideusz/laminar-railway/main/icon.svg",
+  "image": "https://raw.githubusercontent.com/two-workspaces/laminar/main/icon.svg",
   "card_desc": "Laminar: open-source observability and evals for AI agents. OpenTelemetry tracing, evaluations, datasets and a SQL editor over your traces, on ClickHouse and Postgres.",
   "deploy_marker": "ghcr.io/lmnr-ai/app-server:v0.3.0",
   "id": "c98a3ccb-323a-48a7-8a1d-d35b4374ca95",

@@ -32,7 +32,7 @@ The stack is five services: Laminar (the public gateway), Frontend, AppServer, C
 
 - [Laminar self-hosting documentation](https://laminar.sh/docs/hosting-options)
 - [Laminar on GitHub](https://github.com/lmnr-ai/lmnr)
-- [Template source on GitHub](https://github.com/nomideusz/laminar-railway)
+- [Template source on GitHub](https://github.com/two-workspaces/laminar)
 
 ### Implementation Details
 

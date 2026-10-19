@@ -1,7 +1,7 @@
 {
   "services": {
     "f1fa9dfd-42d8-48fb-97ab-14eff42066b4": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/laminar-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/laminar/main/icon.svg",
       "name": "Laminar",
       "build": {},
       "deploy": {
@@ -48,7 +48,7 @@
       }
     },
     "3a16b4a0-0dd8-44bd-a5a1-718b381f45a8": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/laminar-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/laminar/main/icon.svg",
       "name": "Frontend",
       "build": {},
       "deploy": {
@@ -163,7 +163,7 @@
       }
     },
     "86623b95-8798-4f36-bf4f-16a408fc035d": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/laminar-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/laminar/main/icon.svg",
       "name": "AppServer",
       "build": {},
       "deploy": {
